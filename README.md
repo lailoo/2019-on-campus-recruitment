@@ -22,4 +22,5 @@
 * 第七章:虚拟机类加载机制
 * 待补充...
 
-![1571040036365](C:\Users\coyote\AppData\Roaming\Typora\typora-user-images\1571040036365.png)
+![1571040036365](https://github.com/lailoo/2019-on-campus-recruitment/blob/master/pic/1571040036365.png)
+
