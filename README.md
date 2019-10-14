@@ -24,3 +24,7 @@
 
 ![1571040036365](https://github.com/lailoo/2019-on-campus-recruitment/blob/master/pic/1571040036365.png)
 
+## IO模型汇总
+
+![1571040922449](https://github.com/lailoo/2019-on-campus-recruitment/blob/master/pic/1571040922449.png)
+
